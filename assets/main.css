@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scroll-Bar */
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: rgb(71, 71, 71);
+}
+
+/* Style pour la poignée de défilement */
+::-webkit-scrollbar-thumb {
+    background-color: #FEF08A;
+    border-radius: 5px;
+}
+
+/* Style pour la poignée de défilement lorsqu'elle est survolée */
+::-webkit-scrollbar-thumb:hover {
+    background-color: #FDE047;
+}
+
+.grid-pattern {
+    background-image:
+        linear-gradient(to right, rgba(255, 255, 255, 0.2) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(255, 255, 255, 0.2) 1px, transparent 1px);
+    background-size: 200px 200px;
+    opacity: 0.2;
+}
