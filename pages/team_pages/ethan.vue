@@ -35,7 +35,8 @@
                             sur Assetto Corsa Competizione, Minecraft et Call of Duty: Black Ops 6. Après avoir brillé
                             sur la scène internationale, notamment sur Assetto Corsa Competizione, il a décidé de
                             quitter la compétition en tant que joueur pour se consacrer à un rôle de leader. En 2023, il
-                            co-fonde Hoop Hustlers, une équipe en plein essor dans le milieu esport. Aujourd'hui, Ethan se
+                            co-fonde Hoop Hustlers, une équipe en plein essor dans le milieu esport. Aujourd'hui, Ethan
+                            se
                             concentre sur la gestion et la formation des talents, partageant son expérience pour guider
                             la nouvelle génération vers le succès. Il reste une figure clé de l'esport, même en dehors
                             du terrain de jeu.

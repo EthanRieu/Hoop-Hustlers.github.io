@@ -17,8 +17,10 @@
                         <div class="flex flex-row space-x-4 items-center">
                             <img class="size-32" src="/assets/images/memoji_nils.png" alt="Nils memoji">
                             <img class="h-20" src="/assets/images/nba2k_logo.png" alt="NBA2K logo">
+                            <img class="h-20" src="/assets/images/Minecraft-Logo.png" alt="Minecraft logo">
+                            <img class="h-20 bg-black rounded-lg" src="/assets/images/white_fortnite_logo-removebg-preview.png" alt="fortnite logo">
                         </div>
-                        <div class="flex flex-row space-x-2 items-center">
+                        <div class=" flex flex-row space-x-2 items-center">
                             <img class="size-8" src="/assets/images/snapchat-svgrepo-com.svg" alt="Snapchat logo">
                             <img class="size-8" src="/assets/images/instagram-svgrepo-com.svg" alt="Instagram logo">
                             <div class="bg-black text-white font-bold text-xl p-2 rounded-lg">JOUEUR</div>
