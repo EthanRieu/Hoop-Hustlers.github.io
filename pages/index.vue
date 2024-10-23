@@ -46,8 +46,10 @@ onMounted(() => {
 </script>
 
 <style scoped>
-.logo, .slogan {
+.logo,
+.slogan {
     opacity: 0;
-    transform: translateY(50px); /* Le logo et le slogan démarrent avec un léger décalage vers le bas */
+    transform: translateY(50px);
+    /* Le logo et le slogan démarrent avec un léger décalage vers le bas */
 }
 </style>

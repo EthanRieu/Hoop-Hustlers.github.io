@@ -27,7 +27,7 @@
         </div>
 
         <!-- Pied de page -->
-         <Footer />
+        <Footer />
     </div>
 </template>
 
